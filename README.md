@@ -86,6 +86,10 @@ okr-project-bs/
 • O prompt do sistema segue um roteiro rígido, guiando o usuário com perguntas estratégicas.
 • A aplicação é orientada ao modelo operacional de gestão de resultados da empresa.
 
+📸 Print da Aplicação
+
+![alt text](static\img\print.png)
+
 ---
 
 ✉️ Contato
