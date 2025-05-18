@@ -1,0 +1,10 @@
+# Arquivos de configuração sensíveis
+.env
+*.env
+
+# Ambiente virtual
+__pycache__/
+venv/
+
+# Pasta com o modelo operacional dos OKRs
+/Dados/
