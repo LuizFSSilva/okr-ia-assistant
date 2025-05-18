@@ -88,7 +88,7 @@ okr-project-bs/
 
 📸 Print da Aplicação
 
-![alt text](static\img\print.png)
+![Print da aplicação](static/img/print.png)
 
 ---
 
